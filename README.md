@@ -29,6 +29,8 @@ A sleek and modern real-time chat application built with a focus on usability, t
 
 ![Screenshot 2025-05-25 111743](https://github.com/user-attachments/assets/7ebcb3dc-19bc-42eb-83de-911c6ce91cd6)
 
+![Screenshot 2025-05-25 110908](https://github.com/user-attachments/assets/2fc42fe0-a2ac-4b13-89be-1f37580d022b)
+
 ![Screenshot 2025-05-25 111700](https://github.com/user-attachments/assets/4178c673-72a3-4fef-9d3d-fdde61c9967b)
 
 ![Screenshot 2025-05-25 111725](https://github.com/user-attachments/assets/57b270aa-5103-4e95-9993-9af6c25fea32)
